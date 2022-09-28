@@ -2,11 +2,11 @@
 day 1 (git) - assignment 
 
 ## Intro
-In this repo you will apply you git skills and create a calculator app.
+In this repo you will apply your git skills and create a calculator app.
 ## Steps
 1. Clone this repo
 2. Make new feature branch out of it and add these functions to the main.py file. Use the following names for the branches.
-    1. fetaure-add
+    1. feature-add
     2. feature-sub
     3. feature-mul
     4. feature-div
