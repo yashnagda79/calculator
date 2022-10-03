@@ -1,3 +1,10 @@
+
+def multiply(x, y):
+    return x * y
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+print(num1, "*", num2, "=", multiply(num1, num2))
+
 def sub(a,b):
     return a-b
 
@@ -12,3 +19,5 @@ def add():
 add()
 
 sub()
+
+multiply()
